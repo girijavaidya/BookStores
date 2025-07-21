@@ -1,3 +1,9 @@
-# BookStores Project
+ BookStores Project
+A full-stack CRUD-based application for managing book records. The system allows users to:
 
-A simple CRUD-based backend application for managing book records. You can list all books, view details, add new books, update existing entries, and delete them. Ideal for learning how to handle data and requests using PHP/MySQL or Node.js/MongoDB.
+List all books
+ View individual book details
+ Add new books
+ Update existing book entries
+ Delete books
+Built using Node.js + Express.js + MongoDB for the backend and React.js for the frontend UI. Ideal for learning data handling, REST APIs, and frontend-backend integration.
